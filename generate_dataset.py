@@ -1,7 +1,7 @@
 """
 generate_dataset.py
 Builds the sample bilingual (English + Urdu) customer-support intent
-dataset used to train the classifier. Urdu is included in BOTH native
+dataset used to train the clssifier. Urdu is included in BOTH native
 script (اردو) and common Roman-Urdu transliteration (e.g. "mera order
 kab deliver hoga"), since real users often type Urdu using a Latin
 keyboard in chat apps.
