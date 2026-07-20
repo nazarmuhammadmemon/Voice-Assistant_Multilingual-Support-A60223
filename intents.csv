@@ -1,0 +1,177 @@
+text,language,intent
+Refund my subscription immediately please,en,refund
+Please process a refund for order 4521,en,refund
+کیا آپ بین الاقوامی شپنگ کرتے ہیں,ur,general_inquiry
+How do I update my payment method,en,account_help
+"I was charged twice, please refund one payment",en,refund
+mujhe apna address tabdeel karna hai,ur,account_help
+"The item never arrived, I want a refund",en,refund
+The refund has not appeared in my account yet,en,refund
+اپڈیٹ انسٹال نہیں ہو رہی,ur,technical_issue
+website par error aa raha hai,ur,technical_issue
+"I cancelled my order, when will I get refunded please",en,refund
+"I need a refund, the product was defective",en,refund
+Can you give me information about this product today,en,general_inquiry
+The app keeps crashing on my phone,en,technical_issue
+Can I speak to a customer service agent today,en,general_inquiry
+میرا انٹرنیٹ کام نہیں کر رہا,ur,technical_issue
+I want to talk to a human agent,en,general_inquiry
+My device will not connect to wifi today,en,technical_issue
+kya aap international shipping karte hain,ur,general_inquiry
+"mujh se do baar paise kat gaye, ek refund kar dain",ur,refund
+meri subscription ka refund kar dain,ur,refund
+The website is showing an error message,en,technical_issue
+mein apna account kaise band karoon,ur,account_help
+Do you offer student discounts,en,general_inquiry
+ادائیگی کا طریقہ کیسے بدلوں,ur,account_help
+ٹو فیکٹر آتھینٹیکیشن کیسے آن کروں,ur,account_help
+What payment methods do you accept today,en,general_inquiry
+mera refund kab milega,ur,general_inquiry
+The screen freezes every time I open the app as soon as possible,en,technical_issue
+سامان نہیں پہنچا، ریفنڈ چاہیے,ur,refund
+Is there a mobile app available as soon as possible,en,general_inquiry
+The app keeps crashing on my phone thank you,en,technical_issue
+paise wapas kar dain please,ur,refund
+Can you help me change my username,en,account_help
+مجھے اپنا پتہ تبدیل کرنا ہے,ur,account_help
+ریفنڈ کیسے مانگوں,ur,refund
+aap ki qareebi dukaan kahan hai,ur,general_inquiry
+Can I speak to a customer service agent,en,general_inquiry
+mein apne account mein login nahi kar pa raha,ur,technical_issue
+My internet is not working,en,technical_issue
+"The item never arrived, I want a refund please",en,refund
+میں اپنا پاسورڈ بھول گیا,ur,account_help
+What are your business hours,en,general_inquiry
+What payment methods do you accept,en,general_inquiry
+I lost connection during the video call today,en,technical_issue
+میرا ڈیوائس وائی فائی سے کنیکٹ نہیں ہو رہا,ur,technical_issue
+delivery mein kitna waqt lagta hai,ur,general_inquiry
+ڈیلیوری میں کتنا وقت لگتا ہے,ur,general_inquiry
+"mein satisfied nahi hoon, paise wapas chahiye",ur,refund
+Do you ship internationally,en,general_inquiry
+Can I track my order status,en,general_inquiry
+I need to change my shipping address as soon as possible,en,account_help
+Can I merge two accounts into one as soon as possible,en,account_help
+Please process a refund for order 4521 please,en,refund
+Can I merge two accounts into one,en,account_help
+میں اپنے اکاؤنٹ میں لاگ ان نہیں کر پا رہا,ur,technical_issue
+I want to update my email address,en,account_help
+What are your business hours today,en,general_inquiry
+aap ki return policy kya hai,ur,general_inquiry
+My internet is not working thank you,en,technical_issue
+kya aap students ko discount dete hain,ur,general_inquiry
+How do I request a refund,en,refund
+mera device wifi se connect nahi ho raha,ur,technical_issue
+میں اپنا یوزرنیم تبدیل کرنا چاہتا ہوں,ur,account_help
+How do I close my account permanently,en,account_help
+"I cancelled my order, when will I get refunded",en,refund
+آپ کون سے ادائیگی کے طریقے قبول کرتے ہیں,ur,general_inquiry
+Refund my subscription immediately,en,refund
+I cannot log into my account,en,technical_issue
+The app is very slow today,en,technical_issue
+ادائیگی کرتے وقت سرور ایرر آ رہا ہے,ur,technical_issue
+mujhe product ke baray mein maloomat chahiye,ur,general_inquiry
+Please refund my recent payment,en,refund
+Do you offer student discounts as soon as possible,en,general_inquiry
+Do you have a loyalty program please,en,general_inquiry
+What languages does support offer,en,general_inquiry
+aap konse payment ke tareeqe qabool karte hain,ur,general_inquiry
+Do you ship internationally please,en,general_inquiry
+How do I contact customer service,en,general_inquiry
+اسکرین بار بار فریز ہو جاتی ہے,ur,technical_issue
+Please refund my recent payment as soon as possible,en,refund
+"saman nahi pohncha, refund chahiye",ur,refund
+mein apna email address update karna chahta hoon,ur,account_help
+Where is your nearest store located,en,general_inquiry
+mein apna username tabdeel karna chahta hoon,ur,account_help
+I lost connection during the video call,en,technical_issue
+Can I get my money back for this purchase please,en,refund
+براہ کرم میری ادائیگی واپس کریں,ur,refund
+I want to talk to a human agent as soon as possible,en,general_inquiry
+"product kharab tha, refund chahiye",ur,refund
+I want to update my phone number on file,en,account_help
+The software update failed to install,en,technical_issue
+کیا آپ طلباء کو رعایت دیتے ہیں,ur,general_inquiry
+I want a refund for my order,en,refund
+I want to update my phone number on file as soon as possible,en,account_help
+I want a refund for my order please,en,refund
+screen baar baar freeze ho jati hai,ur,technical_issue
+The page keeps loading and never finishes,en,technical_issue
+آپ کی قریبی دکان کہاں ہے,ur,general_inquiry
+How do I contact customer service please,en,general_inquiry
+mein apna password bhool gaya,ur,account_help
+Can you give me information about this product,en,general_inquiry
+I am getting a server error when I try to pay,en,technical_issue
+"Where is my order, can you track it for me",en,general_inquiry
+How do I update my payment method please,en,account_help
+آپ کی ریٹرن پالیسی کیا ہے,ur,general_inquiry
+"I need a refund, the product was defective thank you",en,refund
+The refund has not appeared in my account yet please,en,refund
+product warranty kya hai,ur,general_inquiry
+Can I get my money back for this purchase,en,refund
+میں اپنا اکاؤنٹ کیسے بند کروں,ur,account_help
+My device will not connect to wifi,en,technical_issue
+What is your return policy thank you,en,general_inquiry
+I need to change my shipping address,en,account_help
+How long does delivery usually take please,en,general_inquiry
+mera internet kaam nahi kar raha,ur,technical_issue
+app baar baar band ho jati hai,ur,technical_issue
+How do I enable two factor authentication please,en,account_help
+mein apna password kaise tabdeel karoon,ur,account_help
+I want to update my email address thank you,en,account_help
+How long does delivery usually take,en,general_inquiry
+The page keeps loading and never finishes thank you,en,technical_issue
+mera order ka refund chahiye,ur,refund
+How do I change my password as soon as possible,en,account_help
+میں مطمئن نہیں ہوں، پیسے واپس چاہییں,ur,refund
+What languages does support offer thank you,en,general_inquiry
+aap ke kaam ke auqaat kya hain,ur,general_inquiry
+میں اپنے آرڈر کا ریفنڈ چاہتا ہوں,ur,refund
+refund kaise mangoon,ur,refund
+How do I request a refund thank you,en,refund
+I am not satisfied and want my money back today,en,refund
+The software update failed to install thank you,en,technical_issue
+I need help verifying my identity please,en,account_help
+Do you have a loyalty program,en,general_inquiry
+Can you help me change my username please,en,account_help
+میں اپنا آرڈر کیسے ٹریک کروں,ur,general_inquiry
+I am getting a server error when I try to pay today,en,technical_issue
+The website is showing an error message thank you,en,technical_issue
+How do I enable two factor authentication,en,account_help
+The screen freezes every time I open the app,en,technical_issue
+I need help verifying my identity,en,account_help
+My password reset link is not working,en,technical_issue
+mein apna order kaise track karoon,ur,general_inquiry
+I would like to talk to a human agent please,en,general_inquiry
+"I was charged twice, please refund one payment thank you",en,refund
+How can I delete my account thank you,en,account_help
+I forgot my account password today,en,account_help
+The app is very slow today as soon as possible,en,technical_issue
+payment karte waqt server error aa raha hai,ur,technical_issue
+مجھ سے دو بار پیسے کٹ گئے، ایک واپس کریں,ur,refund
+"Where is my order, can you track it for me thank you",en,general_inquiry
+آپ کے کام کے اوقات کیا ہیں,ur,general_inquiry
+payment ka tareeqa kaise badloon,ur,account_help
+I am not satisfied and want my money back,en,refund
+How can I delete my account,en,account_help
+پراڈکٹ خراب تھا، مجھے ریفنڈ چاہیے,ur,refund
+two factor authentication kaise on karoon,ur,account_help
+How do I change my password,en,account_help
+My password reset link is not working please,en,technical_issue
+میں اپنا ای میل ایڈریس اپڈیٹ کرنا چاہتا ہوں,ur,account_help
+I need information about this product,en,general_inquiry
+mera order kab deliver hoga,ur,general_inquiry
+I would like to talk to a human agent please as soon as possible,en,general_inquiry
+I forgot my account password,en,account_help
+I cannot log into my account please,en,technical_issue
+ویب سائٹ پر ایرر آ رہا ہے,ur,technical_issue
+Where is your nearest store located as soon as possible,en,general_inquiry
+How do I close my account permanently as soon as possible,en,account_help
+میری سبسکرپشن کا ریفنڈ کریں,ur,refund
+Can I track my order status please,en,general_inquiry
+میں اپنا پاسورڈ کیسے تبدیل کروں,ur,account_help
+I need information about this product please,en,general_inquiry
+update install nahi ho raha,ur,technical_issue
+What is your return policy,en,general_inquiry
+Is there a mobile app available,en,general_inquiry
+ایپ بار بار بند ہو جاتی ہے,ur,technical_issue
